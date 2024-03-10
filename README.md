@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Airblack28
-- 👀 I’m interested in Web & Mobile Development 
-- 🌱 I’m currently learning Html, CSS, JavaScript, Php, Dart
+- 👀 I’m interested in Software Full Stack Development 
+- 🌱 I’m currently learning Java, React, Node, Flutter, Html, CSS, JavaScript, Php, Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
